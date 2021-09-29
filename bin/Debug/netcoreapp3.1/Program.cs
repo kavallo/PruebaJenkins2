@@ -12,7 +12,7 @@ namespace ConsoleApp4
 
         public static bool autenticado()
         {
-            return false;
+            return true;
         }
     }
 }
